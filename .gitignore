@@ -7,3 +7,5 @@ backtrader_plotting.egg-info
 /.pytest_cache
 /.tox
 /venv_310
+/data
+*.csv
